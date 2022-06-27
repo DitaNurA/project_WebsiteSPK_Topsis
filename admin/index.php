@@ -94,6 +94,12 @@
                         </div>
                     </div>
                     <div class="body" align="justify">
+                        <p>Nama Kelompok : </p>
+                        <li>1. Alfin Emha Afriman </li>
+                        <li>2. Dita Nur Ainiyah  </li>
+                        <li>3. Muhammad Akbar Azmi </li>
+                        <li>4. Zalna Rahma N. </li>
+                        <p>----------------------------------------</p>
                         <p>Sistem Pendukung Keputusan (SPK) atau Decision Support System (DSS) adalah sebuah sistem yang mampu memberikan kemampuan pemecahan masalah maupun kemampuan pengkomunikasian untuk masalah dengan kondisi semi terstruktur dan tak terstruktur. Sistem ini digunakan untuk membantu pengambilan keputusan dalam situasi semi terstruktur dan situasi yang tidak terstruktur, dimana tak seorangpun tahu secara pasti bagaimana keputusan seharusnya dibuat (Turban, 2001). Hal lainnya yang perlu dipahami adalah bahwa SPK bukan untuk menggantikan tugas manajer akan tetapi hanya sebagai bahan pertimbangan bagi manajer untuk menentukan keputusan akhir.</p>
                         <br>
                         <p>Sprague dan Watson mendefinisikan Sistem Pendukung Keputusan (SPK) sebagai sistem yang memiliki lima karakteristik utama yaitu (Sprague et.al, 1993):
@@ -103,6 +109,7 @@
                             <li>Untuk memecahkan masalah-masalah rumit yang mustahil dilakukan dengan kalkulasi manual</li>
                             <li>Melalui cara simulasi yang interaktif</li>
                             <li>Dimana data dan model analisis sebaai komponen utama</li>
+
                         </p>
                     </div>
                 </div>
